@@ -1,7 +1,7 @@
 Cards Lecture 3
 ---------------
 
-Using what we've learned about JS and JQ, we'll create a cards app that will do the following:
+Using what we've learned about HTML, CSS, JS and JQ, we'll create a cards app that will do the following:
 
 - drawCardFromTop: first card in array
 - drawCardFromBottom: last card in array
